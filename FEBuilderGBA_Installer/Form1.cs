@@ -178,7 +178,7 @@ namespace FEBuilderGBA_Downloader
         {
             out_url = "";
 
-            string url = "https://api.github.com/repos/FEBuilderGBA/FEBuilderGBA/releases/latest";
+            string url = "https://api.github.com/repos/laqieer/FEBuilderGBA/releases/latest";
             string contents;
             try
             {
