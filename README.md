@@ -1,3 +1,5 @@
+This fork changes FEBuilderGBA to [this fork](https://github.com/laqieer/FEBuilderGBA).
+
 FEBuilderGBA Install
 ===
 This is an installer that can easily install FEBuilderGBA.
